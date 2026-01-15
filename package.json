@@ -1,0 +1,16 @@
+{
+  "name": "@healthspace/root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm -r --parallel dev",
+    "test": "pnpm -r --parallel test",
+    "build": "pnpm -r build",
+    "start": "pnpm -r start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.27.0"
+}
